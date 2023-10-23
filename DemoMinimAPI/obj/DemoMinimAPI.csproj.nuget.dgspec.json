@@ -64,6 +64,14 @@
               "target": "Package",
               "version": "[7.0.12, )"
             },
+            "MiniValidation": {
+              "target": "Package",
+              "version": "[0.4.2-pre.20220306.48, )"
+            },
+            "NetDevPack.Identity": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[7.0.0, )"
